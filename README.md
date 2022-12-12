@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @omidaloos
+- 👀 I’m interested in DevOps Engineering 
+- 🌱 I’m currently learning IT Automation with Python.
