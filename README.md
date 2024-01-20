@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @omidaloos
-- 👀 I’m interested in DevOps Engineering 
-- 🌱 I’m currently learning IT Automation with Python.
+- 👀 I am interested in Automation and Security
+- 🌱 I am currently learning Penetration Testing
